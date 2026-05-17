@@ -40,7 +40,7 @@ The dataset contains OLA ride booking information including:
 # 1. Overview Page
 <img src="Ola Project Overview Page.png" width="800">
 The Overview page provides a summary of overall business performance including:
- - Total Bookings
+- Total Bookings
 - Total Revenue
 - Customer & Driver Cancellation %
 - Booking Trends Over Time
@@ -73,3 +73,11 @@ This page provides detailed insights into revenue generation across different ve
 - Revenue by Payment Method
 - Revenue Trend Over Time
 - Vehicle-wise Revenue Performance
+  
+# Features Used:
+KPI Cards
+Line Charts
+Pie Charts
+Interactive Date Filters
+Vehicle Type Navigation
+Dynamic Slicers
