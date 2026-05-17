@@ -36,5 +36,25 @@ The dataset contains OLA ride booking information including:
 - Booking Trend Analysis
 - Cancellation Analysis
 - Vehicle Type Breakdown
+# Dashboard Pages
+1. Overview Page
+The Overview page provides a summary of overall business performance including:
+Total Bookings
+Total Revenue
+Customer & Driver Cancellation %
+Booking Trends Over Time
+Booking Status Breakdown
+Vehicle Type Distribution
+Top Pickup Locations
+# 2. Vehicle Type Analysis Page
+This page focuses on performance comparison across different vehicle categories such as Prime Sedan, Mini, Auto, Bike, eBike, and Prime SUV.
+<img src="Vehicle Type page.png" width="800">
+# Key Insights Included:
+- Total Revenue by Vehicle Type
+- Vehicle-wise Booking Analysis
+- Average Ride Distance
+- Total Distance Travelled
+- Booking Status Distribution by Vehicle Type
+- Customer & Driver TAT Analysis
 - Top Pickup Locations Analysis
 - Interactive Filters & Navigation
