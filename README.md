@@ -47,9 +47,11 @@ The Overview page provides a summary of overall business performance including:
 - Booking Status Breakdown
 - Vehicle Type Distribution
 - Top Pickup Locations
+
 # 2. Vehicle Type Analysis Page
 This page focuses on performance comparison across different vehicle categories such as Prime Sedan, Mini, Auto, Bike, eBike, and Prime SUV.
 <img src="Vehicle Type page.png" width="800">
+
 # Key Insights Included:
 - Total Revenue by Vehicle Type
 - Vehicle-wise Booking Analysis
@@ -59,3 +61,15 @@ This page focuses on performance comparison across different vehicle categories 
 - Customer & Driver TAT Analysis
 - Top Pickup Locations Analysis
 - Interactive Filters & Navigation
+
+# 3. Revenue Analysis Page
+This page provides detailed insights into revenue generation across different vehicle types, payment methods, pickup locations, and booking dates.
+<img src="Revenue page.png" width="800">
+
+# Key Insights Included:
+- Total Revenue Analysis
+- Success Booking Count
+- Revenue by Top Pickup Locations
+- Revenue by Payment Method
+- Revenue Trend Over Time
+- Vehicle-wise Revenue Performance
