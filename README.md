@@ -75,9 +75,26 @@ This page provides detailed insights into revenue generation across different ve
 - Vehicle-wise Revenue Performance
   
 # Features Used:
-KPI Cards
-Line Charts
-Pie Charts
-Interactive Date Filters
-Vehicle Type Navigation
-Dynamic Slicers
+- KPI Cards
+- Line Charts
+- Pie Charts
+- Interactive Date Filters
+- Vehicle Type Navigation
+- Dynamic Slicers
+# 4. Cancellation Analysis Page
+This page focuses on analyzing ride cancellations by both customers and drivers to identify operational issues and booking challenges.
+<img src=" page.png" width="800">
+# Key Insights Included:
+- Customer Cancellation Percentage
+- Driver Cancellation Percentage
+- Cancelled Rides by Vehicle Type
+- Driver Cancellation by Pickup Location
+- Customer Cancellation Reasons
+- Daily Cancellation Trends
+# Features Used:
+- Pie Charts
+- Bar Charts
+- Trend Analysis
+- Interactive Navigation
+- Dynamic Filtering
+- Comparative Analysis Visuals
