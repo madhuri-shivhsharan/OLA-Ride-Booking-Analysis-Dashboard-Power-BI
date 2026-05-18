@@ -83,7 +83,7 @@ This page provides detailed insights into revenue generation across different ve
 - Dynamic Slicers
 # 4. Cancellation Analysis Page
 This page focuses on analyzing ride cancellations by both customers and drivers to identify operational issues and booking challenges.
-<img src=" page.png" width="800">
+<img src="Cancellations page.png" width="800">
 # Key Insights Included:
 - Customer Cancellation Percentage
 - Driver Cancellation Percentage
